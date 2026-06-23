@@ -1,0 +1,6 @@
+supplier_name,supplier_country,supplier_type,contract_start_date,contract_end_date,payment_terms,min_order_value,on_time_delivery_rate,quality_score,annual_contract_value,is_active
+Supplier-A,Mexico,Direct Import,2023-02-20,2027-05-09,Net 45,4538,0.8,4.1,306634,True
+Supplier-B,Mexico,Manufacturer,2023-12-22,2026-06-17,Net 45,2944,0.97,3.3,53146,True
+Supplier-C,China,Wholesaler,2023-10-22,2026-07-15,Net 30,2543,0.93,3.1,334318,True
+Supplier-D,Germany,Manufacturer,2023-04-29,2027-01-29,COD,4322,0.91,4.3,128464,True
+Supplier-E,Bangladesh,Manufacturer,2023-08-18,2026-10-09,Net 45,1561,0.9,3.8,216215,True

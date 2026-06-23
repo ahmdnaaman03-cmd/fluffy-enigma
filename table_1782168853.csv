@@ -1,0 +1,4 @@
+الملف,الوصف,السجلات
+supply_chain_logistics_dataset.csv,"البيانات الرئيسية — 5,000 طلب لوجستي","5,000 صف"
+suppliers_dataset.csv,جدول الموردين — للتدرب على JOIN,5 صفوف
+warehouses_dataset.csv,جدول المستودعات — للتدرب على JOIN,8 صفوف

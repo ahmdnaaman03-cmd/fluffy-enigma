@@ -1,0 +1,9 @@
+warehouse_id,warehouse_city,warehouse_state,warehouse_region,total_capacity_sqft,used_capacity_sqft,utilization_rate,employee_count,avg_processing_time_hours,automation_level,peak_season_capacity,operating_cost_monthly,warehouse_lat,warehouse_lon
+FC-NYC-01,New York,NY,Northeast,196699,148779,0.76,501,3.1,High,222669,281239,40.71,-74.0
+FC-LAX-02,Los Angeles,CA,West,83101,37394,0.45,266,6.9,Low,96472,60658,34.05,-118.24
+FC-CHI-03,Chicago,IL,Midwest,168063,133507,0.79,214,4.0,High,206531,250495,41.87,-87.62
+FC-DFW-04,Dallas,TX,South,154076,94060,0.61,326,7.6,Medium,195678,283434,32.77,-96.79
+FC-MIA-05,Miami,FL,Southeast,119304,109827,0.92,478,4.5,High,165413,224068,25.76,-80.19
+FC-SEA-06,Seattle,WA,West,139930,120938,0.86,702,6.8,Low,183024,202514,47.6,-122.33
+FC-ATL-07,Atlanta,GA,Southeast,164235,97564,0.59,312,7.4,Low,222054,161831,33.75,-84.38
+FC-DEN-08,Denver,CO,West,128823,74061,0.57,734,7.8,Low,175630,215146,39.73,-104.99
