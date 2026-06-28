@@ -6,32 +6,32 @@ Dedicated to turning raw data into strategic insights. This profile is managed e
 
 ## 📂 Projects Catalog
 
-* **[Supply-Chain-Logistics-Dashboard](https://github.com/ahmdnaaman03-cmd/Supply-Chain-Logistics-Dashboard)**
-
+* **[Supply-Chain-Logistics-Dashboard](./project)**
+  
   End-to-end analysis using SQL and Streamlit.
 
-* **[Data-Cleaner-Pro](https://github.com/ahmdnaaman03-cmd/Data-Cleaner-Pro)**
-
+* **[Data-Cleaner-Pro](./Data-Cleaner-Pro)**
+  
   Automation tool for data cleaning.
 
-* **[Data-to-Excel](https://github.com/ahmdnaaman03-cmd/Data-to-Excel)**
-
+* **[Data-to-Excel](./Data-to-Excel)**
+  
   Data entry automation via Manus.space.
 
-* **[Sabo-Automation](https://github.com/ahmdnaaman03-cmd/Sabo-Automation)**
-
+* **[Sabo-Automation](./Sabo-Automation)**
+  
   Process automation solutions.
 
-* **[Amazon-Op-App](https://github.com/ahmdnaaman03-cmd/Amazon-Op-App)**
-
+* **[Amazon-Op-App](./Amazon-Op-App)**
+  
   Operational evaluation project.
 
-* **[SQL-Practice](https://github.com/ahmdnaaman03-cmd/SQL-Practice)**
-
+* **[SQL-Practice](./projects/sql-practice)**
+  
   Database querying and manipulation exercises.
 
-* **[Git-Practice](https://github.com/ahmdnaaman03-cmd/Git-Practice)**
-
+* **[Git-Practice](./projects/git-practice)**
+  
   Version control and repository management.
 
 ---
