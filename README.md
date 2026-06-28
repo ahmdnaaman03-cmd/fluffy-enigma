@@ -1,26 +1,49 @@
-# 📊 Supply Chain & Logistics Data Analysis Dashboard
+# Ahmed Noaman | Data Analyst Portfolio
 
-## 🎯 Project Overview
-This project is an end-to-end data analysis and automation solution designed to optimize supply chain and logistics operations. It showcases the integration of relational databases (SQL) and interactive web applications (Streamlit) to transform raw logistics data into actionable business insights.
+Dedicated to turning raw data into strategic insights. This profile is managed entirely from a mobile-first environment (Alpine Linux/iSH), proving that innovation isn't limited by hardware.
 
-## ⚡ The Problem & Solution
-* **The Problem:** Supply chain operations generate massive tracking and inventory data, which is often difficult to interpret, leading to delays, high delivery costs, and inefficient supplier management.
-* **The Solution:** Built a robust analytical pipeline that cleans raw dataset files, updates a local SQLite database, runs strategic optimization queries, and visualizes KPIs through an interactive dashboard.
+---
 
-## 🛠️ Project Architecture & Tech Stack
-* **Database Management:** SQLite (`logistics.db`) utilized for structured storage and querying operations via `logistics_queries.sql`.
-* **Data Processing:** Python (Pandas) used for standardizing data schemas and handling missing records.
-* **Interactive Dashboard:** Built with **Streamlit** (`streamlit_app.py`) to create user-friendly visual analytics for logistics managers.
-* **Version Control:** Git & GitHub.
+## 📂 Projects Catalog
 
-## 🔍 Sample Analytical Query (SQL)
-To evaluate and optimize operational efficiency, the project leverages advanced SQL querying. Below is a key query designed to identify the fastest and most cost-effective shipping carriers:
+* **[Supply-Chain-Logistics-Dashboard](https://github.com/ahmdnaaman03-cmd/Supply-Chain-Logistics-Dashboard)**
 
-```sql
--- استعلام حساب الشركات الأسرع والأرخص
-SELECT carrier,
-       ROUND(AVG(lead_time_days), 2) AS avg_days,
-       ROUND(AVG(shipping_cost), 2) AS avg_cost
-FROM logistics_data
-GROUP BY carrier
-ORDER BY avg_days ASC;
+  End-to-end analysis using SQL and Streamlit.
+
+* **[Data-Cleaner-Pro](https://github.com/ahmdnaaman03-cmd/Data-Cleaner-Pro)**
+
+  Automation tool for data cleaning.
+
+* **[Data-to-Excel](https://github.com/ahmdnaaman03-cmd/Data-to-Excel)**
+
+  Data entry automation via Manus.space.
+
+* **[Sabo-Automation](https://github.com/ahmdnaaman03-cmd/Sabo-Automation)**
+
+  Process automation solutions.
+
+* **[Amazon-Op-App](https://github.com/ahmdnaaman03-cmd/Amazon-Op-App)**
+
+  Operational evaluation project.
+
+* **[SQL-Practice](https://github.com/ahmdnaaman03-cmd/SQL-Practice)**
+
+  Database querying and manipulation exercises.
+
+* **[Git-Practice](https://github.com/ahmdnaaman03-cmd/Git-Practice)**
+
+  Version control and repository management.
+
+---
+
+## 🛠 Skills & Tools
+
+* **Data:** SQL, SQLite, Excel
+
+* **Programming:** Python (Pandas, Streamlit)
+
+* **Environment:** Git, GitHub, Linux CLI
+
+---
+
+> "The goal is always to provide tangible value that elevates the workplace."
