@@ -1,48 +1,37 @@
 # Ahmed Noaman | Data Analyst Portfolio
 
-Dedicated to turning raw data into strategic insights. This profile is managed entirely from a mobile-first environment (Alpine Linux/iSH), proving that innovation isn't limited by hardware.
+Dedicated to turning raw data into strategic insights. This profile is managed entirely from a mobile-first environment (Alpine Linux/iSH).
 
 ---
 
 ## 📂 Projects Catalog
 
-* **[Supply-Chain-Logistics-Dashboard](https://github.com/ahmdnaaman03-cmd/Supply-Chain-Logistics-Dashboard)**
-  
-  End-to-end analysis using SQL and Streamlit.
+* **Supply-Chain-Logistics-Dashboard**
+  Focus: End-to-end data analysis using SQL and Streamlit.
 
-* **[Data-Cleaner-Pro](https://github.com/ahmdnaaman03-cmd/Data-Cleaner-Pro)**
-  
-  Automation tool for data cleaning.
+* **Data-Cleaner-Pro**
+  Focus: Professional automation tool for data cleaning.
 
-* **[Data-to-Excel](https://github.com/ahmdnaaman03-cmd/Data-to-Excel)**
-  
-  Data entry automation via Manus.space.
+* **Data-to-Excel**
+  Focus: Data entry automation via Manus.space.
 
-* **[Sabo-Automation](https://github.com/ahmdnaaman03-cmd/Sabo-Automation)**
-  
-  Process automation solutions.
+* **Sabo-Automation**
+  Focus: Process automation solutions and workflow optimization.
 
-* **[Amazon-Op-App](https://github.com/ahmdnaaman03-cmd/Amazon-Op-App)**
-  
-  Operational evaluation project.
+* **Amazon-Op-App**
+  Focus: Operational evaluation and performance analysis.
 
-* **[SQL-Practice](https://github.com/ahmdnaaman03-cmd/SQL-Practice)**
-  
-  Database querying and manipulation exercises.
+* **SQL-Practice**
+  Focus: Database querying and manipulation training.
 
-* **[Git-Practice](https://github.com/ahmdnaaman03-cmd/Git-Practice)**
-  
-  Version control and repository management.
+* **Git-Practice**
+  Focus: Version control and repository management.
 
 ---
 
-## 🛠 Skills & Tools
-
-* **Data:** SQL, SQLite, Excel
-
-* **Programming:** Python (Pandas, Streamlit)
-
-* **Environment:** Git, GitHub, Linux CLI
+## 🛠 Technical Stack
+* **Languages & Data:** Python (Pandas, Streamlit), SQL, SQLite, Excel.
+* **Tools:** Git, GitHub, Linux CLI.
 
 ---
 
