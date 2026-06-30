@@ -1,0 +1,182 @@
+Order_ID,Customer_Name,Order_Date,Product_Category,Quantity,Price_Each,Shipping_Status
+ORD-119,Olivia Harris,25/02/2025,Furniture,-5,NULL,Shipped
+ORD-148,George Robinson,2025-10-20,Clothing,11,463.7,Delivered
+ORD-148,Fiona Robinson,2025-04-16,Clothing,N/A,14.46,delivered
+ORD-138,Diana Jones,Dec 26, 2025,Boks,13,155.6,Pending
+ORD-063,Noah Harris,2025-08-27,Clothing,6,495.3,In Transit
+ORD-026,Fiona Thomas,2025-11-24,Furniture,17,77.29,Shipped
+ORD-135,Evan Garcia,Apr 07, 2026,Clothing,18,224.76,Delivered
+ORD-069,Noah Brown,2026-03-17,Electronics,3,152.66,Pendng
+ORD-001,Alice Smith,2025-01-15,Electronics,5,299.99,Shipped
+ORD-150,Mia Clark,2025-05-30,Clothing,2,89.5,Pending
+ORD-088,George Anderson,2025-09-12,Appliances,8,445.0,Delivered
+ORD-107,Ian Martinez,2025-07-03,Appliances,4,312.1,Shipped
+ORD-013,Julia White,2026-06-28,Electronics,12,18.0,In Transit
+ORD-097,Bob Thompson,2025-02-14,Clothing,N/A,free,Shipped
+ORD-034,Kevin Martin,2025-11-05,Appliances,10,56.75,Cnclled
+ORD-119,Olivia Harris,25/02/2025,Furniture,-5,NULL,Shipped
+ORD-122,Charlie Jackson,2025-04-22,Furniture,15,132.4,Pending
+ORD-056,Liam Garcia,2026-01-19,Electronics,-10,201.33,Delivered
+ORD-081,Hannah Taylor,2025-08-09,Appliances,7,378.9,Shipped
+ORD-003,Alice Brown,2025-03-28,Electrnics,9,85.0,Pending
+ORD-144,Diana Harris,2026-05-14,Appliances,14,259.0,Delivered
+ORD-150,Mia Clark,2025-05-30,Clothing,2,89.5,Pending
+ORD-059,Evan Thomas,2025-12-20,Furnitur,unknown,444.2,Shipped
+ORD-019,Charlie Harris,2025-06-15,Electronics,11,67.5,Pending
+ORD-025,Bob Martinez,2025-10-02,Clothing,4,156.0,Delivered
+ORD-044,Olivia Jackson,2026-02-25,Appliances,6,89.99,Shipped
+ORD-102,Kevin Anderson,2025-07-30,Furniture,8,345.67,Pending
+ORD-077,Ian Smith,2025-04-18,Electronics,12,free,In Transit
+ORD-038,Julia Garcia,2026-03-10,Clothing,5,29.99,Shipped
+ORD-011,George White,2025-08-22,Appliances,3,199.5,Delivered
+ORD-066,Noah Thompson,2025-01-30,Furniture,9,78.25,Pending
+ORD-083,Liam Harris,2026-04-05,Electronics,2,512.0,Shipped
+ORD-129,Fiona Jackson,2025-09-17,Clothing,16,134.8,Delivered
+ORD-055,Alice Martin,2025-11-12,Appliances,7,223.4,Pending
+ORD-091,Evan Clark,2025-06-08,Furniture,4,89.0,Shipped
+ORD-117,Charlie Brown,2026-01-25,Electronics,13,156.75,In Transit
+ORD-072,Diana Thompson,2025-07-14,Clothing,10,45.6,Pending
+ORD-048,George Martinez,2025-02-28,Appliances,1,678.9,Delivered
+ORD-099,Olivia Harris,2025-10-10,Furniture,18,34.99,Shipped
+ORD-027,Bob White,2026-05-20,Electronics,6,289.0,Pending
+ORD-060,Kevin Jones,2025-03-15,Clothing,8,99.99,Delivered
+ORD-085,Hannah Robinson,2025-12-05,Appliances,14,145.3,Shipped
+ORD-009,Fiona Smith,2025-04-02,Furniture,3,399.0,Pending
+ORD-134,Ian Anderson,2026-06-12,Electronics,11,56.8,In Transit
+ORD-041,Julia Martinez,2025-08-18,Clothing,9,78.5,Pending
+ORD-078,Liam Brown,2025-01-22,Appliances,5,234.67,Delivered
+ORD-095,Noah Garcia,2025-09-25,Furniture,2,189.0,Shipped
+ORD-114,Alice Thompson,2026-02-14,Electronics,15,445.12,Pending
+ORD-053,Charlie Clark,2025-07-07,Clothing,7,12.99,Delivered
+ORD-087,George Harris,2025-11-28,Appliances,4,567.89,Shipped
+ORD-002,Bob Smith,2025-05-19,Furniture,10,23.45,Pending
+ORD-123,Diana White,2026-03-22,Electronics,1,78.9,In Transit
+ORD-100,Evan Robinson,2025-10-08,Clothing,17,156.0,Pending
+ORD-065,Olivia Jones,2025-04-26,Appliances,6,334.5,Delivered
+ORD-046,Kevin Smith,2025-12-15,Furniture,12,89.25,Shipped
+ORD-075,Fiona Brown,2026-01-08,Electronics,8,198.76,Pending
+ORD-112,Ian Harris,2025-06-30,Clothing,3,67.4,In Transit
+ORD-031,Julia Thompson,2025-02-10,Appliances,14,456.78,Shipped
+ORD-068,Liam Martinez,2025-08-04,Furniture,5,123.56,Pending
+ORD-093,Noah Anderson,2026-04-16,Electronics,9,289.34,Delivered
+ORD-008,Alice Garcia,2025-09-21,Clothing,11,56.0,Shipped
+ORD-052,George Martin,2025-03-18,Appliances,16,78.99,Pending
+ORD-079,Charlie White,2025-10-25,Furniture,13,345.67,In Transit
+ORD-096,Bob Jones,2026-05-02,Electronics,4,156.23,Shipped
+ORD-028,Diana Robinson,2025-01-12,Clothing,7,89.0,Pending
+ORD-061,Kevin Harris,2025-07-24,Appliances,2,234.56,Delivered
+ORD-086,Hannah Clark,2025-11-17,Furniture,18,12.34,Shipped
+ORD-010,Fiona Thompson,2026-02-20,Electronics,6,567.89,Pending
+ORD-037,Ian Brown,2025-04-08,Clothing,10,78.9,In Transit
+ORD-067,Olivia Smith,2025-08-31,Appliances,1,345.67,Shipped
+ORD-049,Liam Jones,2025-12-28,Furniture,15,89.0,Pending
+ORD-098,Julia Harris,2026-03-05,Electronics,3,234.56,Delivered
+ORD-021,George Robinson,2025-06-22,Clothing,12,156.78,Shipped
+ORD-054,Alice Martinez,2025-10-14,Appliances,8,67.89,Pending
+ORD-073,Noah White,2026-01-01,Furniture,5,456.78,In Transit
+ORD-115,Charlie Garcia,2025-05-08,Electronics,14,89.23,Shipped
+ORD-032,Bob Anderson,2025-09-27,Clothing,7,123.45,Pending
+ORD-089,Diana Martin,2025-02-18,Appliances,11,234.56,Delivered
+ORD-064,Evan Smith,2025-07-11,Furniture,2,78.9,Shipped
+ORD-043,Fiona Jones,2026-04-24,Electronics,9,345.67,Pending
+ORD-076,Kevin Thompson,2025-11-03,Clothing,16,56.78,In Transit
+ORD-101,Hannah Harris,2025-03-20,Appliances,4,123.45,Shipped
+ORD-028,Diana Robinson,2025-01-12,Clothing,7,89.0,Pending
+ORD-058,Liam White,2025-08-13,Furniture,13,234.56,Pending
+ORD-116,Olivia Brown,2026-05-18,Electronics,1,67.89,Delivered
+ORD-024,George Clark,2025-01-05,Clothing,10,345.67,Shipped
+ORD-071,Alice Harris,2025-06-27,Appliances,3,78.9,Pending
+ORD-094,Ian Martinez,2025-10-12,Furniture,17,123.45,In Transit
+ORD-047,Julia Jones,2025-04-15,Electronics,8,456.78,Shipped
+ORD-082,Noah Thompson,2026-02-08,Clothing,5,89.0,Pending
+ORD-057,Diana Garcia,2025-12-22,Appliances,14,234.56,Delivered
+ORD-036,Kevin Robinson,2025-07-02,Furniture,6,67.89,Shipped
+ORD-103,Liam Smith,2025-09-14,Electronics,11,345.67,Pending
+ORD-086,Hannah Clark,2025-11-17,Furniture,18,12.34,Shipped
+ORD-069,Noah Brown,2026-03-17,Electronics,3,152.66,In Transit
+ORD-020,Charlie Harris,2025-05-24,Clothing,9,78.9,Shipped
+ORD-050,Bob Martin,2025-01-28,Appliances,2,123.45,Pending
+ORD-095,Noah Garcia,2025-09-25,Furniture,2,189.0,Delivered
+ORD-077,Ian Smith,2025-04-18,Electronics,12,free,In Transit
+ORD-033,Fiona White,2025-08-06,Clothing,15,456.78,Shipped
+ORD-062,George Thompson,2025-11-21,Appliances,7,89.23,Pending
+ORD-097,Bob Thompson,2025-02-14,Clothing,N/A,free,Shipped
+ORD-042,Olivia Anderson,2026-06-01,Furniture,4,234.56,In Transit
+ORD-074,Alice Jones,2025-03-24,Electronics,13,67.89,Shipped
+ORD-109,Diana Harris,2025-07-16,Clothing,10,345.67,Pending
+ORD-088,George Anderson,2025-09-12,Appliances,8,445.0,Delivered
+ORD-051,Kevin Garcia,2025-12-10,Furniture,1,123.45,Shipped
+ORD-090,Evan Martinez,2026-04-03,Electronics,18,78.9,Pending
+ORD-029,Liam Robinson,2025-05-26,Clothing,6,456.78,In Transit
+ORD-065,Olivia Jones,2025-04-26,Appliances,6,334.5,Delivered
+ORD-040,Julia Brown,2025-10-18,Furniture,3,89.0,Shipped
+ORD-084,Hannah Martin,2025-02-06,Electronics,12,234.56,Pending
+ORD-035,Noah Harris,2025-08-24,Clothing,14,67.89,Delivered
+ORD-070,George Smith,2025-01-17,Appliances,9,345.67,Shipped
+ORD-045,Diana Thompson,2026-03-12,Furniture,16,123.45,Pending
+ORD-104,Ian Jones,2025-06-20,Electronics,5,78.9,In Transit
+ORD-025,Bob Martinez,2025-10-02,Clothing,4,156.0,Delivered
+ORD-059,Evan Thomas,2025-12-20,Furnitur,unknown,444.2,Shipped
+ORD-023,Alice Robinson,2025-04-10,Appliances,11,456.78,Shipped
+ORD-056,Liam Garcia,2026-01-19,Electronics,-10,201.33,Pending
+ORD-118,Charlie White,2025-09-03,Furniture,8,234.56,Delivered
+ORD-067,Olivia Smith,2025-08-31,Appliances,1,345.67,Shipped
+ORD-041,Julia Martinez,2026-02-26,Electronics,13,89.0,In Transit
+ORD-030,Kevin Brown,2025-07-06,Clothing,2,123.45,Shipped
+ORD-053,Charlie Clark,2025-11-28,Appliances,17,345.67,Pending
+ORD-092,Noah Martin,2025-03-22,Furniture,4,78.9,Delivered
+ORD-013,Julia White,2026-06-28,Electronics,12,18.0,In Transit
+ORD-046,Kevin Smith,2025-12-15,Furniture,12,89.25,Shipped
+ORD-058,Liam White,2025-08-13,Furniture,13,234.56,Pending
+ORD-076,Kevin Thompson,2025-04-04,Electronics,16,56.78,In Transit
+ORD-038,Julia Garcia,2026-05-30,Clothing,5,29.99,Shipped
+ORD-055,Alice Martin,2025-09-19,Appliances,7,223.4,Pending
+ORD-011,George White,2025-02-12,Furniture,3,199.5,Delivered
+ORD-060,Kevin Jones,2025-07-24,Clothing,8,99.99,Shipped
+ORD-087,George Harris,2025-10-29,Appliances,4,567.89,Pending
+ORD-022,Bob Thompson,2026-01-14,Electronics,15,234.56,In Transit
+ORD-078,Liam Brown,2025-06-02,Clothing,9,78.5,Shipped
+ORD-063,Noah Harris,2025-11-24,Appliances,6,495.3,Pending
+ORD-039,Diana Martinez,2025-04-20,Furniture,1,345.67,Delivered
+ORD-008,Alice Garcia,2025-08-06,Electronics,11,56.0,Shipped
+ORD-066,Noah Thompson,2026-03-08,Clothing,9,78.25,In Transit
+ORD-017,Fiona Jones,2025-12-14,Appliances,12,123.45,Shipped
+ORD-044,Olivia Jackson,2025-02-16,Furniture,6,89.99,Pending
+ORD-073,Noah White,2025-07-28,Electronics,5,456.78,Delivered
+ORD-026,Fiona Thomas,2026-04-22,Clothing,17,77.29,Shipped
+ORD-054,Alice Martinez,2025-09-14,Appliances,8,67.89,Pending
+ORD-012,George Robinson,2025-01-30,Furniture,3,199.0,In Transit
+ORD-095,Noah Garcia,2025-10-25,Electronics,2,189.0,Shipped
+ORD-083,Liam Harris,2025-05-16,Clothing,14,512.0,Pending
+ORD-056,Liam Garcia,2025-08-09,Appliances,10,201.33,Delivered
+ORD-021,George Robinson,2026-02-02,Furniture,12,156.78,Shipped
+ORD-034,Kevin Martin,2025-06-24,Electronics,13,56.75,In Transit
+ORD-069,Noah Brown,2025-11-18,Clothing,3,152.66,Pending
+ORD-048,George Martinez,2025-04-04,Appliances,7,678.9,Delivered
+ORD-001,Alice Smith,2025-09-20,Furniture,5,299.99,Shipped
+ORD-089,Diana Martin,2025-03-26,Electronics,11,234.56,Pending
+ORD-064,Evan Smith,2025-12-08,Clothing,2,78.9,In Transit
+ORD-045,Diana Thompson,2025-07-14,Appliances,16,123.45,Shipped
+ORD-074,Alice Jones,2026-05-06,Furniture,13,234.56,Pending
+ORD-032,Bob Anderson,2025-01-22,Electronics,7,123.45,Delivered
+ORD-057,Diana Garcia,2025-08-28,Clothing,14,234.56,Shipped
+ORD-076,Kevin Thompson,2025-02-10,Appliances,9,56.78,Pending
+ORD-023,Alice Robinson,2025-10-14,Furniture,11,456.78,In Transit
+ORD-040,Julia Brown,2025-04-16,Electronics,3,89.0,Shipped
+ORD-052,George Martin,2026-01-20,Clothing,16,78.99,Pending
+ORD-030,Kevin Brown,2025-06-12,Appliances,2,123.45,Delivered
+ORD-099,Olivia Harris,2025-11-02,Furniture,18,34.99,Shipped
+ORD-037,Ian Brown,2025-03-28,Electronics,10,78.9,Pending
+ORD-061,Kevin Harris,2025-08-14,Clothing,7,234.56,In Transit
+ORD-027,Bob White,2025-12-24,Appliances,6,289.0,Shipped
+ORD-094,Ian Martinez,2025-07-18,Furniture,17,123.45,Pending
+ORD-042,Olivia Anderson,2025-02-08,Electronics,4,234.56,Delivered
+ORD-071,Alice Harris,2025-09-22,Clothing,3,78.9,Shipped
+ORD-080,Noah Thompson,2026-04-14,Appliances,12,345.67,Pending
+ORD-100,Evan Robinson,2025-05-30,Furniture,17,156.0,In Transit
+ORD-024,George Clark,2025-10-26,Electronics,10,345.67,Shipped
+ORD-047,Julia Jones,2025-01-18,Clothing,8,456.78,Pending
+ORD-082,Noah Thompson,2025-06-14,Appliances,5,89.0,Delivered
+ORD-036,Kevin Robinson,2025-11-06,Furniture,14,67.89,Shipped
+ORD-103,Liam Smith,2025-04-12,Electronics,11,345.67,Pending
+ORD-093,Noah Anderson,2025-08-16,Clothing,2,123.45,In Transit

@@ -1,38 +1,32 @@
-# Ahmed Noaman | Data Analyst Portfolio
+# Data Cleaner Pro 🚀
 
-Dedicated to turning raw data into strategic insights. This profile is managed entirely from a mobile-first environment (Alpine Linux/iSH).
+A professional data cleaning and processing tool built with Streamlit and Pandas. This project is designed to help data analysts quickly clean their datasets by handling missing values, removing duplicates, and converting data types through an intuitive web interface.
 
----
+## Features ✨
+- **File Upload:** Supports CSV and Excel files.
+- **Missing Value Handling:** Options to drop rows or fill with Mean, Median, or Mode.
+- **Duplicate Removal:** One-click removal of duplicate records.
+- **Data Type Conversion:** Convert columns to numeric types easily.
+- **Professional Branding:** Developed as part of a Data Analytics portfolio.
+- **Export:** Download the cleaned data as a CSV file.
 
-## 📂 Projects Catalog
+## How to Run Locally 💻
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ahmdnaaman03-cmd/My-Technical-Journey.git
+   ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the app:
+   ```bash
+   streamlit run streamlit_app.py
+   ```
 
-* **Supply-Chain-Logistics-Dashboard**
-  Focus: End-to-end data analysis using SQL and Streamlit.
-
-* **Data-Cleaner-Pro**
-  Focus: Professional automation tool for data cleaning.
-
-* **Data-to-Excel**
-  Focus: Data entry automation via Manus.space.
-
-* **Sabo-Automation**
-  Focus: Process automation solutions and workflow optimization.
-
-* **Amazon-Op-App**
-  Focus: Operational evaluation and performance analysis.
-
-* **SQL-Practice**
-  Focus: Database querying and manipulation training.
-
-* **Git-Practice**
-  Focus: Version control and repository management.
-
----
-
-## 🛠 Technical Stack
-* **Languages & Data:** Python (Pandas, Streamlit), SQL, SQLite, Excel.
-* **Tools:** Git, GitHub, Linux CLI.
+## Developed By 👤
+**Ahmed Saeed Noaman**
+*Data Analytics Project*
 
 ---
-
-> "The goal is always to provide tangible value that elevates the workplace."
+*This project is ready for deployment on Streamlit Community Cloud.*
