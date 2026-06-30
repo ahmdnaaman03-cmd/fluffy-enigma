@@ -33,7 +33,7 @@ jobs:
 
     - name: Test SQL Database & Schema Connection
       run: |
-        # فحص ذكي للتأكد من وجود قاعدة البيانات والاتصال بها بنجاح
+        # اختبار وجود قاعدة البيانات والاتصال بها بنجاح
         python -c "
         import os, sqlite3
         db_file = 'logistics.db'
@@ -45,7 +45,7 @@ jobs:
             cursor = conn.cursor()
             # اختبار سلامة الاستعلامات والاتصال
             cursor.execute('SELECT 1;')
-            print('✅ SQL Database Connection and Integrity Test: PASSED')
+            print('✅ SQL Database Connection: PASSED')
             conn.close()
         except Exception as e:
             print(f'❌ SQL Test Failed: {e}')
@@ -53,7 +53,4 @@ jobs:
         "
 
     - name: Dry Run Streamlit Application
-      run: |
-        # اختبار تشغيل واجهة ستريمليت والتأكد من عدم وجود أخطاء في الاستدعاء
-        streamlit hello --timeout 3 || true
-        print("✅ Streamlit App Environment Test: PASSED")
+      run: python -c "import streamlit; print('Streamlit Environment Verified')"
