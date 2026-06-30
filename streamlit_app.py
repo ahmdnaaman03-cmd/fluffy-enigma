@@ -34,7 +34,7 @@ def main():
                 if missing_option == "إزالة الصفوف":
                     df.dropna(inplace=True)
                 elif missing_option == "ملء بالمتوسط":
-                    for col in df.select_dtypes(include=\['number'\]).columns:
+                    for col in df.select_dtypes(include=['number'\]).columns:
                         df[col].fillna(df[col].mean(), inplace=True)
                 elif missing_option == "ملء بالوسيط":
                     for col in df.select_dtypes(include=\['number'\]).columns:
