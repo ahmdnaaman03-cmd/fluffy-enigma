@@ -51,12 +51,12 @@ def main():
 
             # Convert data types (example for numeric)
             if st.sidebar.checkbox("تحويل أنواع البيانات (لتحويل الأعمدة الرقمية)"):
-                numeric_cols = df.select_dtypes(include=\['object'\]).columns
+                numeric_cols = df.select_dtypes(include=['object']).columns
                 if len(numeric_cols) > 0:
                     selected_col = st.sidebar.selectbox("اختر عمودًا لتحويله إلى رقمي", numeric_cols)
                     if st.sidebar.button("تحويل"):
                         try:
-                            df[selected_col] = pd.to_numeric(df[selected_col], errors=\'coerce\')
+                            df[selected_col] = pd.to_numeric(df[selected_col], errors='coerce')
                             st.sidebar.success(f"تم تحويل العمود {selected_col} إلى رقمي.")
                         except ValueError:
                             st.sidebar.error("لا يمكن تحويل هذا العمود إلى رقمي.")
@@ -67,7 +67,7 @@ def main():
             st.dataframe(df)
 
             # Download cleaned data
-            csv_file = df.to_csv(index=False).encode(\'utf-8\')
+            csv_file = df.to_csv(index=False).encode('utf-8')
             st.download_button(
                 label="تنزيل البيانات المنظفة كملف CSV",
                 data=csv_file,
